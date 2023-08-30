@@ -1,0 +1,56 @@
+.container {
+    max-width: 500px;
+    max-height: 400px;
+    margin: auto;
+    margin-top: 50px;
+    background-color: rgb(0, 0, 0, 10%);
+    padding: 50px 0 50px 0;
+    box-shadow: 0 0 20px #D8ECFD;
+    border-radius: 8px;
+}
+
+
+body {
+    background-image: url("waterBottle.webp");
+    background-size: cover;
+    font-family: 'Pacifico', cursive;
+    text-align: center;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    text-shadow: 0 0 3px black;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#increment-btn {
+    background: #9ABDD6;
+    width: 200px;
+    height: 50px;
+    border-radius: 20px;
+}
+
+#save-btn {
+    background: #EBF2FA;
+    width: 200px;
+    height: 50px;
+    border-radius: 20px;
+}
+
